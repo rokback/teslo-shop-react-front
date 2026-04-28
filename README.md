@@ -1,7 +1,29 @@
-# TesloShop
+# 🛒 E-Commerce App
 
-1. Clonar el repositorio
-2. Clonar el archivo .env.template y renombrarlo a .env
-3. Ejecutar el comando `npm install` para instalar las dependencias
-4. Verificar que el backend este corriendo en el puerto 3000
-5. Ejecutar el comando `npm run dev` para iniciar el servidor de desarrollo
+Aplicación web de comercio electrónico desarrollada con React y TypeScript.
+
+## 🚀 Demo
+(Aquí tu link de Netlify o Vercel)
+
+## 🛠️ Tech Stack
+- React
+- TypeScript
+- CSS / SCSS
+- Context API
+
+## ✨ Features
+- Listado de productos
+- Carrito de compras
+- Manejo de estado global
+- Flujo de compra básico
+
+## 👨‍💻 My Role
+- Desarrollo del frontend con React
+- Implementación del carrito de compras
+- Manejo de estado global
+- Consumo de datos de productos
+
+## 🧠 What I Learned
+- Manejo de estado en aplicaciones complejas
+- Arquitectura de componentes
+- Flujo de e-commerce básico
