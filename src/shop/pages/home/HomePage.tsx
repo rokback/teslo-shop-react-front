@@ -9,7 +9,7 @@ export const HomePage = () => {
 
   return (
     <>
-      <CustomJumbotron title="Todos los productos" />
+      <CustomJumbotron title="Todos los Productos" />
 
       <ProductsGrid products={data?.products || []} />
 
